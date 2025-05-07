@@ -3,7 +3,7 @@
 CourseWala is a full-stack MERN web application that uses artificial intelligence to automatically generate detailed, structured online courses. Users can define a course topic, difficulty level, duration, and number of chapters—and the system intelligently creates the entire course, complete with chapter summaries, key points, code examples, and curated YouTube tutorials.
 
 Developed by **Aditya Dutt**  
-📽️ [Watch Demo]()
+📽️ [Watch Demo](https://drive.google.com/file/d/1_7Jvii8uTlQ-OU6MiIioZMsfy4nCwBV-/view?usp=drive_link)
 
 ---
 
