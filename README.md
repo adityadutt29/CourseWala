@@ -55,7 +55,7 @@ Developed by **Aditya Dutt**
 
 ### 1. Clone the Repository
 ```bash
-git clone 
+git clone https://github.com/adityadutt29/CourseWala.git
 cd ai-powered-course-generator
 ```
 
