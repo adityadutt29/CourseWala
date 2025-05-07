@@ -23,7 +23,7 @@ Developed by **Aditya Dutt**
 ### 🔹 Course Customization
 - Users can set:
   - Course topic and objectives
-  - Difficulty level (Beginner / Intermediate / Advanced)
+  - Difficulty level (Beginner/Intermediate/Advanced)
   - Total duration
   - Number of chapters
 
@@ -56,7 +56,7 @@ Developed by **Aditya Dutt**
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/adityadutt29/CourseWala.git
-cd ai-powered-course-generator
+cd course-wala
 ```
 
 ### 2. Install Backend Dependencies
@@ -67,12 +67,12 @@ npm install
 
 ### 3. Install Frontend Dependencies
 ```bash
-cd ../client
+cd client
 npm install
 ```
 
 ### 4. Configure Environment Variables
-Create a `.env` file in the `server` directory and add the following:
+Create a `.env` file in the `backend` directory and add the following:
 ```env
 MONGO_URI=<your_mongodb_connection_string>
 JWT_SECRET=<your_jwt_secret_key>
@@ -89,10 +89,10 @@ npm start
 ```
 #### Start Frontend
 ```bash
-cd ../client
-npm start
+cd client
+npm run dev
 ```
-Visit: `http://localhost:3000`
+Visit: `http://localhost:5173/`
 
 ---
 
